@@ -27,7 +27,7 @@ The dataset also comprises of a grasp detection subset, including <b>55,000+ gra
 ## 📂 Dataset Access  
 
 <p align="justify">
-The full <b>ReCoDeWaste dataset</b>, including all RGB-D images, segmentation masks in COCO format, and grasp annotations, is available for download via Google Drive. Due to GitHub’s file size limitations, only a small demo subset may be stored here for quick testing and illustration purposes. Researchers and practitioners are encouraged to use the full dataset for training and benchmarking AI-based waste sorting models.
+The full <b>ReCoDeWaste dataset</b>, including all RGB-D images, segmentation masks in COCO format, and grasp annotations, is available for download via Google Drive. Researchers and practitioners are encouraged to use the full dataset for training and benchmarking AI-based waste sorting models.
 </p>
 
 🔗 **[Download Full Dataset (Google Drive)](https://drive.google.com/drive/folders/1pBxoNtKkntYypRH1MG5GkSPncGJ86nF5?usp=sharing)**  
