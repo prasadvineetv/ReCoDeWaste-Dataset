@@ -56,4 +56,4 @@ If you use <b>ReCoDeWaste</b> in your research, please cite the following paper:
 ```
 
 ## 🙏 Acknowledgement & Funding
-<p align="justify"> This research is supported by the <b><a href="https://www.monash.edu/it/our-research/research-labs-and-groups/ascii">Automation and Sustainability in Construction and Intelligent Infrastructure (ASCII) Lab</a></b> at Monash University, Melbourne, Australia. The authors gratefully acknowledge the lab’s resources, technical support, and collaborative environment that enabled the development of the ReCoDeWaste dataset and associated research. </p>
+<p align="justify"> This research is supported by the <b><a href="https://www.monash.edu/ascii">Automation and Sustainability in Construction and Intelligent Infrastructure (ASCII) Lab</a></b> at Monash University, Melbourne, Australia. The authors gratefully acknowledge the lab’s resources, technical support, and collaborative environment that enabled the development of the ReCoDeWaste dataset and associated research. </p>
